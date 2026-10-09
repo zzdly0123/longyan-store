@@ -1,2 +1,3 @@
 # longyan-store
-My first repository on github
+Hello everyone
+This is my first repository on Github 
